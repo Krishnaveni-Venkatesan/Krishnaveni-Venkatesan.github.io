@@ -1,0 +1,15 @@
+a.nav-link {
+    margin-right: 35px;
+}
+
+table.table.table-borderless.table-body {
+    margin: 0 auto;
+    width: 80%;
+    max-width: fit-content;
+}
+
+@media (max-width: 800px) {
+    .nav-bdy {
+        padding-left: 130px !important;
+    }
+}
